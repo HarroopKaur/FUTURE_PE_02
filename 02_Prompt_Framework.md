@@ -30,3 +30,22 @@ Google Gemini
 
 ## Why Gemini:
 Gemini was chosen because it performs well in generating creative, short-form, conversational content suitable for UGC ads.
+
+---
+
+## Reusability
+
+This prompt framework can be reused for:
+
+- Skincare products
+- Fitness brands
+- Local businesses
+- SaaS tools
+
+Only the following inputs need to change:
+- Product name
+- Problem statement
+- Target audience
+- Tone
+
+This makes the system scalable for real-world marketing use.
