@@ -27,3 +27,25 @@ Creator talking in a bathrobe, messy bun.
 - Hooks are relatable and problem-focused
 - Strong visual storytelling
 - Uses conversational tone effectively
+
+---
+
+# Hook Generation – Version 2 (Optimized)
+
+## High-Impact Hooks
+
+### Hook 1 – Insecurity Hook
+Visual: Close-up of dry lips applying matte lipstick  
+Audio: "If you’re still trying to hide your dry lips behind matte lipstick… stop. You’re literally making it worse."
+
+---
+
+### Hook 2 – Result Hook
+Visual: Before/after lips transformation  
+Audio: "I woke up and forgot my lips used to be dry… it felt like sorcery happened overnight."
+
+---
+
+### Hook 3 – Skeptic Hook
+Visual: Throwing lip balms away  
+Audio: "You don’t need another lip balm… you need a repair system."
