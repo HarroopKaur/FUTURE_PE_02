@@ -90,3 +90,28 @@ POV: You finally broke the lip balm dependency cycle 👄✨
 I used to think the hype was marketing… until I saw results overnight.  
 
 #futureinterns #ugccontent #skincare #laneige
+
+---
+
+# Platform Adaptation
+
+## Instagram Reels Version
+- Conversational tone
+- POV-style hooks
+- Casual language
+
+## TikTok Version
+- Faster pacing
+- More direct hook
+- Trend-based delivery
+
+Example Hook:
+"Wait—why is nobody talking about this lip mask?"
+
+## YouTube Shorts Version
+- Slightly more informative
+- Clearer explanation
+- Slower pacing
+
+Example Hook:
+"If you struggle with dry lips, this overnight mask might actually fix it."
