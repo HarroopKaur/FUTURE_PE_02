@@ -5,6 +5,18 @@
 ## Project Overview
 This project demonstrates a structured prompt engineering system for generating high-converting UGC-style ad content.
 
+## Key Upgrade – Version 2 Optimization
+
+The initial AI-generated content was refined using prompt engineering techniques to improve:
+
+- Emotional storytelling  
+- Sensory product experience  
+- Hook effectiveness  
+- Conversion-focused messaging  
+
+This demonstrates a structured workflow of:
+Prompt → Output → Analysis → Optimization → Final Ad Pack
+
 ## Product
 Laneige Lip Sleeping Mask
 
@@ -40,4 +52,4 @@ This system can be used by:
 - Freelancers
 
 ## Project Status
-Task 2 in progress
+Task 2 completed
