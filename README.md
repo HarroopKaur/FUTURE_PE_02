@@ -40,4 +40,4 @@ This system can be used by:
 - Freelancers
 
 ## Project Status
-Task 2 Completed
+Task 2 in progress
