@@ -1,9 +1,9 @@
 # Prompt Framework
 
-## Role Assignment
+## Role Assignment:
 You are an expert UGC Ad Strategist for D2C beauty brands.
 
-## Product Details
+## Product Details:
 - Product: Laneige Lip Sleeping Mask
 - Key Ingredients: Berry Fruit Complex, Vitamin C, Coconut Oil, Shea Butter
 - Primary Benefit: Eliminates flakiness and provides 8-hour overnight hydration
@@ -11,7 +11,7 @@ You are an expert UGC Ad Strategist for D2C beauty brands.
 - Sensory Appeal: Buttery texture, glossy finish, sweet berry scent
 - Tone: Relatable, authentic, best-friend recommendation
 
-## Constraints
+## Constraints:
 - Script length: 15–30 seconds (50–80 words)
 - Use Direct Response structure:
   Hook → Problem → Solution → Value Proposition → Social Proof → CTA
@@ -25,8 +25,8 @@ Generate:
 3. CTA variations
 4. Platform-ready caption
 
-## Model Used
+## Model Used:
 Google Gemini
 
-## Why Gemini
+## Why Gemini:
 Gemini was chosen because it performs well in generating creative, short-form, conversational content suitable for UGC ads.
