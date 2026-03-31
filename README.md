@@ -5,6 +5,13 @@
 ## Project Overview
 This project demonstrates a structured prompt engineering system for generating high-converting UGC-style ad content.
 
+## UGC Ad Demo (Video)
+
+This video demonstrates the AI-generated UGC ad created using the prompt framework.
+
+Watch here:
+https://raw.githubusercontent.com/HarroopKaur/FUTURE_PE_02/main/ugc-ad-demo.mp4
+
 ## Key Upgrade – Version 2 Optimization
 
 The initial AI-generated content was refined using prompt engineering techniques to improve:
